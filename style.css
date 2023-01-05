@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 header nav {
   background-color: #333;
 }
@@ -18,13 +22,14 @@ header a {
 }
 
 section {
-  background-color: #facfac;
+  background-color: #76df8d;
   display: flex;
   height: 100vh;
   align-items: center;
   
 }
 .form {
+  background-color: rgb(142, 185, 185);
   border: 1px solid black;
   margin:auto;
   padding: 35px;
